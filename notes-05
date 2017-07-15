@@ -1,0 +1,3 @@
+Command line: ./as2 input-05
+
+This image was taken from the description in the Ray Tracing Journal. It took 2.5 minutes to render. The main features demonstrated in this image are reflections and shadows. The triangle is reflective and reflects the spheres, all of whom generate shadows on the large sphere and triangle.    
